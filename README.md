@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1051-height-checker) |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1991-find-the-middle-index-in-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
