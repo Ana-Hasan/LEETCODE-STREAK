@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1089-duplicate-zeros) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
@@ -47,4 +48,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0367-valid-perfect-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
