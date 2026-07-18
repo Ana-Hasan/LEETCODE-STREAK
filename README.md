@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1089-duplicate-zeros) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1051-height-checker) |
 ## Counting Sort
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
