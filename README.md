@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -69,4 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
