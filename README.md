@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -79,9 +80,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
