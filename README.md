@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1137-n-th-tribonacci-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1137-n-th-tribonacci-number) |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1137-n-th-tribonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
