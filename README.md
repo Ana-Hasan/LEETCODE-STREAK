@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting Sort
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0367-valid-perfect-square) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
