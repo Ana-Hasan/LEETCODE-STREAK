@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3280-convert-date-to-binary](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/3280-convert-date-to-binary) |
 ## Number Theory
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0279-perfect-squares) |
+## String
+|  |
+| ------- |
+| [3280-convert-date-to-binary](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/3280-convert-date-to-binary) |
 <!---LeetCode Topics End-->
