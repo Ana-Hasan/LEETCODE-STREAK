@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0279-perfect-squares) |
@@ -115,5 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0067-add-binary) |
 | [3280-convert-date-to-binary](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/3280-convert-date-to-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
