@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0067-add-binary) |
+| [0371-sum-of-two-integers](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0371-sum-of-two-integers) |
 | [1009-complement-of-base-10-integer](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
