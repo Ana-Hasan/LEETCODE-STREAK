@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/1991-find-the-middle-index-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
