@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0547-number-of-provinces) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -129,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0067-add-binary) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ana-Hasan/LEETCODE-STREAK/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
